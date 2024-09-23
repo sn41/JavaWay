@@ -1,0 +1,2 @@
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-use-Java-printf-to-format-output
+% [flags] [width] [.precision] specifier-character

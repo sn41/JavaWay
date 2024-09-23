@@ -1,5 +1,9 @@
+import java_steps.step2.cooking.FoodPrepare;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+/*        FoodPrepare prepareProcess = new FoodPrepare();
+        prepareProcess.prepare();*/
+        FoodPrepare.prepare();
     }
 }
