@@ -1,10 +1,10 @@
 package kotlin_steps.step3
-
-
-fun demo1(myPetsNum: Int) {
+fun demoSimple(myPetsNum: Int) {
     if (myPetsNum > 5) {
         println("I have $myPetsNum")
         println("You are crazy!")
+    }else{
+        println("How nice!")
     }
 }
 

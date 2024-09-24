@@ -1,10 +1,12 @@
 package java_steps.step3;
 
-public class OperatorIf {
-    static void demo1(int myPetsNum) {
+public class OperatorsForWhileIfSwitch {
+    static void demoSimple(int myPetsNum) {
         if (myPetsNum > 5) {
             System.out.println("I have " + myPetsNum);
             System.out.println("You are crazy!");
+        }else{
+            System.out.println("How nice!");
         }
     }
 
